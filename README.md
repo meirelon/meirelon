@@ -9,7 +9,7 @@ My journey in the data world has led me to diverse roles, from Director of Data 
 Whether it's developing predictive models, conducting ab tests, designing ETL pipelines, or building dashboards, I'm dedicated to turning data into a strategic asset.
 
 ### 🔭 I’m currently working on
-In addition to my day to day I run a sports analytics data platform - (Ai Athlete)[https://aiathlete.net]. Please feel free to [reach out](mailto:aiathlete1989@gmail.com) for more info!
+In addition to my day to day I run a sports analytics data platform - [Ai Athlete](https://aiathlete.net). Please feel free to [reach out](mailto:aiathlete1989@gmail.com) for more info!
 
 ### 💬 Ask me about
 In no particular order..
