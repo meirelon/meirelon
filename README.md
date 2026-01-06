@@ -1,19 +1,24 @@
 ### Hi 👋
 
-
 ### About Me
-I'm passionate and results-driven with a knack for transforming data into actionable insights. My formal mathematics & statistics studies paired with modern data and developer practices continue to provide me with ample opportunities to solve complex problems and making data work for businesses at scale.
+I build data products that drive revenue and scale. I'm the founder of **Sync Wave Analytics**, a consulting practice focused on music analytics, sports data, and urban planning—helping clients turn complex datasets into actionable insights.
 
-My journey in the data world has led me to diverse roles, from Director of Data Science for a [Private Equity firm](https://www.musicapital.net) specializing in music content rights to leading data science teams at global companies like [Spotify](https://en.wikipedia.org/wiki/Spotify). I've helped companies leverage their data to secure investor funding, optimize business strategies, and create innovative solutions.
+On the music side, I've built analytics infrastructure processing 500K+ daily streaming events across Spotify, Deezer, and Luminate for catalog valuations and royalty forecasting. In sports, I create fantasy analytics platforms and predictive models. And in city planning, I apply the same data engineering rigor to urban challenges.
 
-Whether it's developing predictive models, conducting ab tests, designing ETL pipelines, or building dashboards, I'm dedicated to turning data into a strategic asset.
+Before starting my own thing, I spent five years at [Spotify](https://spotify.com) building churn prediction models serving 500M users, data science for Wrapped campaigns, and ML features like Family Mix. Earlier, I detected fraud patterns in 10M+ daily transactions at [JPMorgan Chase](https://www.jpmorgan.com) (and earned a utility patent for privacy-preserving analytics), and built fantasy sports models at [ESPN](https://espn.com) that powered content for 2M+ weekly users.
 
-### 🔭 I’m currently working on
-In addition to my day to day I run a sports analytics data platform - [Ai Athlete](https://aiathlete.net). Please feel free to [reach out](mailto:aiathlete1989@gmail.com) for more info!
+I studied Mathematics and Statistics at Rutgers. What drives me is turning messy, complex data into something that helps people make better decisions.
+
+### 🔭 I'm currently working on
+- **[Lyric Nexus](https://lyricnexus.com)** - B2B music analytics platform for catalog valuations and royalty forecasting
+- **[Spicy Sports](https://spicysports.fyi)** - Fantasy sports analytics with Yahoo Fantasy integration and NHL Edge analytics
+- **City planning data projects** - Applying data engineering to urban challenges
 
 ### 💬 Ask me about
-In no particular order..
-Math, Sports, Music, Dogs, Euphonium, Drums, Computers, DIY Projects, Travel, Netflix.
+Data warehousing (Snowflake, BigQuery, dbt), ML at scale, music streaming analytics, fantasy sports modeling, urban data, or privacy-preserving data methods.
 
 ### ⚡ Fun fact
 Guitar Hero Legend.
+
+### 📫 Get in touch
+[Email](mailto:michael@nestel.me) · [LinkedIn](https://www.linkedin.com/in/michael-nestel) · [GitHub](https://github.com/meirelon) · [Website](https://michael.nestel.me)
