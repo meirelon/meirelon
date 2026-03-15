@@ -1,7 +1,7 @@
 ### Hi 👋
 
 ### About Me
-I build data products that drive revenue and scale. I'm the founder of **Sync Wave Analytics**, a consulting practice focused on music analytics, sports data, and urban planning—helping clients turn complex datasets into actionable insights.
+I build data products that drive revenue and scale. I'm the founder of [**Sync Wave Analytics**](https://syncwaveanalytics.com), a consulting practice focused on music analytics, sports data, and urban planning—helping clients turn complex datasets into actionable insights.
 
 On the music side, I've built analytics infrastructure processing 500K+ daily streaming events across Spotify, Deezer, and Luminate for catalog valuations and royalty forecasting. In sports, I create fantasy analytics platforms and predictive models. And in city planning, I apply the same data engineering rigor to urban challenges.
 
